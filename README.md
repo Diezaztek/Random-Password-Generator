@@ -30,6 +30,7 @@ Then enter in your browser to http://localhost:8000
 ## Built With
 
 * [Django](https://www.djangoproject.com) - The web framework used
+* [Bootstrap](https://getbootstrap.com) - HTML, CSS and JS toolkit
 
 
 ## License
