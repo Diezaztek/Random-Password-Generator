@@ -1,4 +1,4 @@
-# Project Title
+# Random password generator
 
 Random password generator made in Django
 
